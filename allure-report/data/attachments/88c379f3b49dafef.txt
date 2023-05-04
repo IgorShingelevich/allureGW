@@ -1,0 +1,3 @@
+[2023-05-03T09:01:29.318Z] [WARNING] https://securepayments.tinkoff.ru/vendor.3055e679369eb960.js 0:1104258 ".init plugin is no longer necessary as of v3.1.0"
+[2023-05-03T09:01:29.330Z] [WARNING] https://securepayments.tinkoff.ru/vendor.3055e679369eb960.js 0:1104258 ".init plugin is no longer necessary as of v3.1.0"
+[2023-05-03T09:01:29.332Z] [WARNING] https://securepayments.tinkoff.ru/vendor.3055e679369eb960.js 0:1104258 ".init plugin is no longer necessary as of v3.1.0"
