@@ -1,1 +1,0 @@
-[2023-05-03T09:08:37.605Z] [SEVERE] https://dev.gasworkers.ru/_nuxt/4cb7248.js 0:132088 Uncaught TypeError: Cannot read properties of undefined (reading 'width')

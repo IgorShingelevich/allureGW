@@ -1,0 +1,2 @@
+[2023-07-07T11:31:39.889Z] [SEVERE] https://dev.gasworkers.ru/api/auth/login - Failed to load resource: the server responded with a status of 422 ()
+[2023-07-07T11:31:39.891Z] [SEVERE] https://dev.gasworkers.ru/_nuxt/e81638e.js 1:213259 
